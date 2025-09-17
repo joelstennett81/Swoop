@@ -1,0 +1,6 @@
+.idea/inspectionProfiles/profiles_settings.xml
+/.idea
+app/__pycache__/__init__.cpython-312.pyc
+app/__pycache__/settings.cpython-312.pyc
+swoop/__pycache__/__init__.cpython-312.pyc
+*.pyc
